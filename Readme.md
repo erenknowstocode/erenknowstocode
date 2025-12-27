@@ -1,6 +1,7 @@
 <p align="center">
   <img src="sripraneeth.png" alt="Banner" width="100%" />
 </p>
+
 # Hi 👋, I'm Sripraneeth Salapareddi
 
 ### A passionate Computer Vision Developer from India
